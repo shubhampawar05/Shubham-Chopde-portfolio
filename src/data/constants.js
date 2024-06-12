@@ -200,7 +200,7 @@ export const projects = [
       description:
         "Explore my sleek portfolio, built with HTML5, CSS3, JavaScript, and React.js. Discover my skills and projects through seamless design and interactivity, optimized for any device.",
       image:
-        "portfolio-logo.png",
+        "portfolio.png",
       tags: [
         "HTML5",
         "CSS3",
@@ -208,7 +208,7 @@ export const projects = [
         "React",
       ],
       category: "web app",
-      github: "https://github.com/kjcreddy666/portfolio",
+      github: "#",
       webapp: "#",
     },
 
